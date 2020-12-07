@@ -1,3 +1,3 @@
-# digipay
+# isacpay
 
  - flutter pub get
