@@ -1,3 +1,3 @@
 # isacpay
 
- - flutter pub get
+ - Exemplo de uma aplicação em Flutter
